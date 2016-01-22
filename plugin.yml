@@ -1,0 +1,15 @@
+name: CalculatorPE
+main: Vaivez66\CalculatorPE\Calculator
+version: 1.0.0
+api: 1.12.0
+load: POSTWORLD
+authors: [Vaivez66]
+description: "Calculator for MCPE"
+commands:
+   cal:
+     description: "CalculatorPE command"
+permissions:
+   cal.pe:
+     description: "Permission to perform command"
+     default: op
+  
